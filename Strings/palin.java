@@ -1,9 +1,8 @@
-package Arrays.Strings;
+package Strings;
+
 import java.util.Scanner;
 
-public class palindromestring {
-    
-
+public class palin {
 
     public static void main(String[] args) {
 

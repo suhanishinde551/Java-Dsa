@@ -1,10 +1,9 @@
-package Arrays.Strings;
+package Strings;
 
 import java.util.Scanner;
 
-public class ReverseString {
-
-    public static void main(String[] args) {
+public class reversestring {
+ public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 
@@ -20,7 +19,5 @@ public class ReverseString {
         System.out.println("Reversed string: " + reversed);
 
         sc.close();
-    }
+    }   
 }
-    
-
