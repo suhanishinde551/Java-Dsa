@@ -1,6 +1,6 @@
 package Sorting;
 import java.util.Scanner;
-public class OPtimiseBubbleSort {
+public class OPtimizedBubbleSort {
 
 
 
