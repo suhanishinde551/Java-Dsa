@@ -32,7 +32,7 @@ public class InsertionSort {
 
         System.out.println("Sorted array:");
 
-        for(int i = 0; i < n; i++) {
+        for( int i = 0; i < n; i++) {
             System.out.print(arr[i] + " ");
         }
 
