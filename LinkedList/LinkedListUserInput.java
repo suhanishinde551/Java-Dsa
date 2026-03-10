@@ -25,6 +25,7 @@ public class LinkedListUserInput {
             return;
         }
 
+        
         Node temp = head;
 
         while (temp.next != null) {
